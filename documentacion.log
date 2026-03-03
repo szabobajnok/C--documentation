@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.2.25)  26 FEB 2026 16:17
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.2.25)  3 MAR 2026 13:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -55,24 +55,34 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 10.
  [1
 
-{C:/Users/MSI GS63 Stealth 8RE/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (documentacion.aux)
+{C:/Users/MSI GS63 Stealth 8RE/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+Overfull \hbox (12.66731pt too wide) in paragraph at lines 32--33
+\OT1/cmr/m/n/10 con-cepts that trans-fer well to other lan-guages like Java, C++, and JavaScript. 
+ []
+
+[2]
+Overfull \hbox (32.52649pt too wide) in paragraph at lines 70--71
+[]\OT1/cmr/m/n/10 Visit the of-fi-cial Vi-sual Stu-dio web-site: \OT1/cmtt/m/n/10 https://visualstudio.microsoft.com/ 
+ []
+
+[3] [4] [5] [6] (documentacion.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026-01-19>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 496 strings out of 467866
- 9687 string characters out of 5411017
- 436759 words of memory out of 5000000
- 29445 multiletter control sequences out of 15000+600000
- 631968 words of font info for 54 fonts, out of 8000000 for 9000
+ 511 strings out of 467866
+ 9969 string characters out of 5411017
+ 442759 words of memory out of 5000000
+ 29457 multiletter control sequences out of 15000+600000
+ 633086 words of font info for 58 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 35i,6n,38p,689b,199s stack positions out of 10000i,1000n,20000p,200000b,200000s
-<C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb>
-Output written on documentacion.pdf (2 pages, 76339 bytes).
+ 35i,6n,38p,689b,328s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\MSI GS63 Stealth 8RE\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1000.pk><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx9.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr9.pfb><C:/Users/MSI GS63 Stealth 8RE/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on documentacion.pdf (6 pages, 142110 bytes).
 PDF statistics:
- 39 PDF objects out of 1000 (max. 8388607)
+ 66 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

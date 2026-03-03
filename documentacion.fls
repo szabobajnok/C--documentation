@@ -31,7 +31,15 @@ OUTPUT documentacion.pdf
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\tfm\jknappen\ec\tcrm1000.tfm
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmtt10.tfm
 INPUT documentacion.aux
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\MiKTeX\fonts\pk\ljfour\jknappen\ec\dpi600\tcrm1000.pk
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx10.pfb
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx9.pfb
@@ -44,3 +52,5 @@ INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\pu
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr17.pfb
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
 INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr9.pfb
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
+INPUT C:\Users\MSI GS63 Stealth 8RE\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmtt10.pfb
