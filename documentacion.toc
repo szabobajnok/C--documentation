@@ -1,88 +1,88 @@
-\contentsline {section}{\numberline {1}Introduction}{5}{}%
-\contentsline {subsection}{\numberline {1.1}What is C\#?}{5}{}%
-\contentsline {subsection}{\numberline {1.2}Why Learn C\#?}{5}{}%
-\contentsline {subsection}{\numberline {1.3}The Foundation of C\#}{5}{}%
-\contentsline {subsubsection}{\numberline {1.3.1}Object-Oriented Programming}{5}{}%
-\contentsline {subsubsection}{\numberline {1.3.2}Type Safety}{6}{}%
-\contentsline {subsubsection}{\numberline {1.3.3}The .NET Framework}{6}{}%
-\contentsline {section}{\numberline {2}Getting Started}{6}{}%
-\contentsline {subsection}{\numberline {2.1}Installing Visual Studio}{6}{}%
-\contentsline {subsubsection}{\numberline {2.1.1}Downloading Visual Studio}{6}{}%
-\contentsline {subsubsection}{\numberline {2.1.2}Installation Process}{6}{}%
-\contentsline {subsection}{\numberline {2.2}Creating Your First Project}{7}{}%
-\contentsline {subsubsection}{\numberline {2.2.1}Starting a New Project}{7}{}%
-\contentsline {subsubsection}{\numberline {2.2.2}Configuring Your Project}{7}{}%
-\contentsline {subsection}{\numberline {2.3}Running Your First Program}{7}{}%
-\contentsline {subsubsection}{\numberline {2.3.1}Understanding the Code}{8}{}%
-\contentsline {subsubsection}{\numberline {2.3.2}Running the Program}{8}{}%
-\contentsline {subsection}{\numberline {2.4}Understanding the Visual Studio Interface}{8}{}%
-\contentsline {subsection}{\numberline {2.5}Common Keyboard Shortcuts}{9}{}%
-\contentsline {section}{\numberline {3}Basic Syntax}{9}{}%
-\contentsline {subsection}{\numberline {3.1}Variables and Types}{9}{}%
-\contentsline {subsubsection}{\numberline {3.1.1}What is a Variable?}{9}{}%
-\contentsline {subsubsection}{\numberline {3.1.2}Why Are Variables Important?}{9}{}%
-\contentsline {subsubsection}{\numberline {3.1.3}Data Types in C\#}{10}{}%
-\contentsline {subsubsection}{\numberline {3.1.4}Declaring and Initializing Variables}{10}{}%
-\contentsline {subsubsection}{\numberline {3.1.5}The var Keyword}{11}{}%
-\contentsline {subsubsection}{\numberline {3.1.6}Type Conversion}{11}{}%
-\contentsline {subsection}{\numberline {3.2}Arrays and Collections}{11}{}%
-\contentsline {subsubsection}{\numberline {3.2.1}What is an Array?}{11}{}%
-\contentsline {subsubsection}{\numberline {3.2.2}Declaring and Initializing Arrays}{11}{}%
-\contentsline {subsubsection}{\numberline {3.2.3}Accessing Array Elements}{12}{}%
-\contentsline {subsubsection}{\numberline {3.2.4}Array Properties and Methods}{12}{}%
-\contentsline {subsubsection}{\numberline {3.2.5}Multi-Dimensional Arrays}{12}{}%
-\contentsline {subsection}{\numberline {3.3}Control Flow}{12}{}%
-\contentsline {subsubsection}{\numberline {3.3.1}What is Conditional Execution?}{12}{}%
-\contentsline {subsubsection}{\numberline {3.3.2}If Statements}{12}{}%
-\contentsline {subsubsection}{\numberline {3.3.3}Else If Statements}{13}{}%
-\contentsline {subsubsection}{\numberline {3.3.4}Comparison Operators}{13}{}%
-\contentsline {subsubsection}{\numberline {3.3.5}Logical Operators}{14}{}%
-\contentsline {subsubsection}{\numberline {3.3.6}Switch Statements}{14}{}%
-\contentsline {subsection}{\numberline {3.4}Loops}{15}{}%
-\contentsline {subsubsection}{\numberline {3.4.1}For Loops}{15}{}%
-\contentsline {subsubsection}{\numberline {3.4.2}While Loops}{15}{}%
-\contentsline {subsubsection}{\numberline {3.4.3}Do-While Loops}{16}{}%
-\contentsline {subsubsection}{\numberline {3.4.4}Foreach Loops}{16}{}%
-\contentsline {subsubsection}{\numberline {3.4.5}Loop Control Statements}{16}{}%
-\contentsline {subsection}{\numberline {3.5}Methods and Functions}{16}{}%
-\contentsline {subsubsection}{\numberline {3.5.1}What is a Method?}{16}{}%
-\contentsline {subsubsection}{\numberline {3.5.2}Method Structure}{17}{}%
-\contentsline {subsubsection}{\numberline {3.5.3}Creating and Calling Methods}{17}{}%
-\contentsline {subsubsection}{\numberline {3.5.4}Method Parameters}{17}{}%
-\contentsline {subsubsection}{\numberline {3.5.5}Method Overloading}{18}{}%
-\contentsline {subsection}{\numberline {3.6}Comments and Formatting}{18}{}%
-\contentsline {subsubsection}{\numberline {3.6.1}Single-Line Comments}{18}{}%
-\contentsline {subsubsection}{\numberline {3.6.2}Multi-Line Comments}{18}{}%
-\contentsline {subsubsection}{\numberline {3.6.3}XML Documentation Comments}{19}{}%
-\contentsline {subsection}{\numberline {3.7}Common Operators}{19}{}%
-\contentsline {subsubsection}{\numberline {3.7.1}Arithmetic Operators}{19}{}%
-\contentsline {subsubsection}{\numberline {3.7.2}Assignment Operators}{19}{}%
-\contentsline {subsubsection}{\numberline {3.7.3}Increment and Decrement}{20}{}%
-\contentsline {subsection}{\numberline {3.8}Coding Practice: Basic Syntax}{20}{}%
-\contentsline {section}{\numberline {4}Object-Oriented Programming}{20}{}%
-\contentsline {subsection}{\numberline {4.1}Classes and Objects}{20}{}%
-\contentsline {subsection}{\numberline {4.2}Encapsulation and Access Modifiers}{21}{}%
-\contentsline {subsection}{\numberline {4.3}Inheritance and Polymorphism}{21}{}%
-\contentsline {subsection}{\numberline {4.4}Interfaces}{21}{}%
-\contentsline {subsection}{\numberline {4.5}Best Practices}{21}{}%
-\contentsline {subsection}{\numberline {4.6}Coding Practice: Object-Oriented Programming}{22}{}%
-\contentsline {section}{\numberline {5}Mini Projects}{22}{}%
-\contentsline {subsection}{\numberline {5.1}Project 1: Calculator Application}{22}{}%
-\contentsline {subsection}{\numberline {5.2}Project 2: To-Do List Manager}{22}{}%
-\contentsline {subsection}{\numberline {5.3}Project 3: Number Guessing Game}{23}{}%
-\contentsline {subsection}{\numberline {5.4}Project 4: Contact Book}{23}{}%
-\contentsline {subsection}{\numberline {5.5}Project 5: Grade Calculator}{23}{}%
-\contentsline {section}{\numberline {6}Managing Your Projects with GitHub}{23}{}%
-\contentsline {subsection}{\numberline {6.1}What is Git and GitHub?}{24}{}%
-\contentsline {subsection}{\numberline {6.2}Installing Git}{24}{}%
-\contentsline {subsection}{\numberline {6.3}Creating a GitHub Account}{24}{}%
-\contentsline {subsection}{\numberline {6.4}Basic Git Commands}{24}{}%
-\contentsline {subsection}{\numberline {6.5}Workflow for C\# Projects}{25}{}%
-\contentsline {subsection}{\numberline {6.6}Using Git in Visual Studio}{25}{}%
-\contentsline {subsection}{\numberline {6.7}Best Practices}{26}{}%
-\contentsline {section}{\numberline {7}Conclusion}{26}{}%
-\contentsline {subsection}{\numberline {7.1}What You've Learned}{26}{}%
-\contentsline {subsection}{\numberline {7.2}Next Steps in Your C\# Journey}{27}{}%
-\contentsline {subsection}{\numberline {7.3}Resources for Continued Learning}{27}{}%
-\contentsline {subsection}{\numberline {7.4}Tips for Success}{28}{}%
-\contentsline {subsection}{\numberline {7.5}Final Thoughts}{28}{}%
+\contentsline {section}{\numberline {1}Introduction}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}What is C\#?}{5}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Why Learn C\#?}{5}{subsection.1.2}%
+\contentsline {subsection}{\numberline {1.3}The Foundation of C\#}{5}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}Object-Oriented Programming}{5}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}Type Safety}{6}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}The .NET Framework}{6}{subsubsection.1.3.3}%
+\contentsline {section}{\numberline {2}Getting Started}{6}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Installing Visual Studio}{6}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}Downloading Visual Studio}{6}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Installation Process}{6}{subsubsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.2}Creating Your First Project}{7}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}Starting a New Project}{7}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Configuring Your Project}{7}{subsubsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.3}Running Your First Program}{7}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}Understanding the Code}{8}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}Running the Program}{8}{subsubsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.4}Understanding the Visual Studio Interface}{8}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}Common Keyboard Shortcuts}{9}{subsection.2.5}%
+\contentsline {section}{\numberline {3}Basic Syntax}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Variables and Types}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}What is a Variable?}{9}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Why Are Variables Important?}{9}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Data Types in C\#}{10}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Declaring and Initializing Variables}{10}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}The var Keyword}{11}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Type Conversion}{11}{subsubsection.3.1.6}%
+\contentsline {subsection}{\numberline {3.2}Arrays and Collections}{11}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}What is an Array?}{11}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Declaring and Initializing Arrays}{11}{subsubsection.3.2.2}%
+\contentsline {subsubsection}{\numberline {3.2.3}Accessing Array Elements}{12}{subsubsection.3.2.3}%
+\contentsline {subsubsection}{\numberline {3.2.4}Array Properties and Methods}{12}{subsubsection.3.2.4}%
+\contentsline {subsubsection}{\numberline {3.2.5}Multi-Dimensional Arrays}{12}{subsubsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.3}Control Flow}{12}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}What is Conditional Execution?}{12}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}If Statements}{12}{subsubsection.3.3.2}%
+\contentsline {subsubsection}{\numberline {3.3.3}Else If Statements}{13}{subsubsection.3.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.4}Comparison Operators}{13}{subsubsection.3.3.4}%
+\contentsline {subsubsection}{\numberline {3.3.5}Logical Operators}{14}{subsubsection.3.3.5}%
+\contentsline {subsubsection}{\numberline {3.3.6}Switch Statements}{14}{subsubsection.3.3.6}%
+\contentsline {subsection}{\numberline {3.4}Loops}{15}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}For Loops}{15}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}While Loops}{15}{subsubsection.3.4.2}%
+\contentsline {subsubsection}{\numberline {3.4.3}Do-While Loops}{16}{subsubsection.3.4.3}%
+\contentsline {subsubsection}{\numberline {3.4.4}Foreach Loops}{16}{subsubsection.3.4.4}%
+\contentsline {subsubsection}{\numberline {3.4.5}Loop Control Statements}{16}{subsubsection.3.4.5}%
+\contentsline {subsection}{\numberline {3.5}Methods and Functions}{16}{subsection.3.5}%
+\contentsline {subsubsection}{\numberline {3.5.1}What is a Method?}{16}{subsubsection.3.5.1}%
+\contentsline {subsubsection}{\numberline {3.5.2}Method Structure}{17}{subsubsection.3.5.2}%
+\contentsline {subsubsection}{\numberline {3.5.3}Creating and Calling Methods}{17}{subsubsection.3.5.3}%
+\contentsline {subsubsection}{\numberline {3.5.4}Method Parameters}{17}{subsubsection.3.5.4}%
+\contentsline {subsubsection}{\numberline {3.5.5}Method Overloading}{18}{subsubsection.3.5.5}%
+\contentsline {subsection}{\numberline {3.6}Comments and Formatting}{18}{subsection.3.6}%
+\contentsline {subsubsection}{\numberline {3.6.1}Single-Line Comments}{18}{subsubsection.3.6.1}%
+\contentsline {subsubsection}{\numberline {3.6.2}Multi-Line Comments}{18}{subsubsection.3.6.2}%
+\contentsline {subsubsection}{\numberline {3.6.3}XML Documentation Comments}{19}{subsubsection.3.6.3}%
+\contentsline {subsection}{\numberline {3.7}Common Operators}{19}{subsection.3.7}%
+\contentsline {subsubsection}{\numberline {3.7.1}Arithmetic Operators}{19}{subsubsection.3.7.1}%
+\contentsline {subsubsection}{\numberline {3.7.2}Assignment Operators}{19}{subsubsection.3.7.2}%
+\contentsline {subsubsection}{\numberline {3.7.3}Increment and Decrement}{20}{subsubsection.3.7.3}%
+\contentsline {subsection}{\numberline {3.8}Coding Practice: Basic Syntax}{20}{subsection.3.8}%
+\contentsline {section}{\numberline {4}Object-Oriented Programming}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Classes and Objects}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Encapsulation and Access Modifiers}{21}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Inheritance and Polymorphism}{21}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Interfaces}{21}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Best Practices}{21}{subsection.4.5}%
+\contentsline {subsection}{\numberline {4.6}Coding Practice: Object-Oriented Programming}{22}{subsection.4.6}%
+\contentsline {section}{\numberline {5}Mini Projects}{22}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Project 1: Calculator Application}{22}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Project 2: To-Do List Manager}{22}{subsection.5.2}%
+\contentsline {subsection}{\numberline {5.3}Project 3: Number Guessing Game}{23}{subsection.5.3}%
+\contentsline {subsection}{\numberline {5.4}Project 4: Contact Book}{23}{subsection.5.4}%
+\contentsline {subsection}{\numberline {5.5}Project 5: Grade Calculator}{23}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Managing Your Projects with GitHub}{23}{section.6}%
+\contentsline {subsection}{\numberline {6.1}What is Git and GitHub?}{24}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Installing Git}{24}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Creating a GitHub Account}{24}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Basic Git Commands}{24}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Workflow for C\# Projects}{25}{subsection.6.5}%
+\contentsline {subsection}{\numberline {6.6}Using Git in Visual Studio}{25}{subsection.6.6}%
+\contentsline {subsection}{\numberline {6.7}Best Practices}{26}{subsection.6.7}%
+\contentsline {section}{\numberline {7}Conclusion}{26}{section.7}%
+\contentsline {subsection}{\numberline {7.1}What You've Learned}{26}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}Next Steps in Your C\# Journey}{27}{subsection.7.2}%
+\contentsline {subsection}{\numberline {7.3}Resources for Continued Learning}{27}{subsection.7.3}%
+\contentsline {subsection}{\numberline {7.4}Tips for Success}{28}{subsection.7.4}%
+\contentsline {subsection}{\numberline {7.5}Final Thoughts}{28}{subsection.7.5}%
