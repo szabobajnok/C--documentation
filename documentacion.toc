@@ -18,5 +18,15 @@
 \contentsline {subsection}{\numberline {2.4}Understanding the Visual Studio Interface}{6}{}%
 \contentsline {subsection}{\numberline {2.5}Common Keyboard Shortcuts}{7}{}%
 \contentsline {section}{\numberline {3}Basic Syntax}{7}{}%
-\contentsline {section}{\numberline {4}Object-Oriented Programming}{7}{}%
-\contentsline {section}{\numberline {5}Conclusion}{7}{}%
+\contentsline {subsection}{\numberline {3.1}Variables and Types}{7}{}%
+\contentsline {subsection}{\numberline {3.2}Control Flow}{8}{}%
+\contentsline {subsection}{\numberline {3.3}Methods and Functions}{8}{}%
+\contentsline {subsection}{\numberline {3.4}Comments and Formatting}{8}{}%
+\contentsline {subsection}{\numberline {3.5}Common Operators}{8}{}%
+\contentsline {section}{\numberline {4}Object-Oriented Programming}{8}{}%
+\contentsline {subsection}{\numberline {4.1}Classes and Objects}{9}{}%
+\contentsline {subsection}{\numberline {4.2}Encapsulation and Access Modifiers}{9}{}%
+\contentsline {subsection}{\numberline {4.3}Inheritance and Polymorphism}{9}{}%
+\contentsline {subsection}{\numberline {4.4}Interfaces}{9}{}%
+\contentsline {subsection}{\numberline {4.5}Best Practices}{10}{}%
+\contentsline {section}{\numberline {5}Conclusion}{10}{}%

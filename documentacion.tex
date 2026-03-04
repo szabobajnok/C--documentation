@@ -173,10 +173,119 @@ Learning keyboard shortcuts will significantly improve your productivity:
 \end{itemize}
 
 \section{Basic Syntax}
-% Content to be added
+This section covers the foundational syntax elements of C\# that every beginner should know.
+
+\subsection{Variables and Types}
+C\# is a statically typed language: each variable has a type known at compile time. Common built-in types include:
+
+\begin{itemize}
+    \item \texttt{int} -- integer numbers (e.g., 0, -3, 42)
+    \item \texttt{double} -- double-precision floating point numbers (e.g., 3.14)
+    \item \texttt{bool} -- boolean values: \texttt{true} or \texttt{false}
+    \item \texttt{string} -- sequences of characters (text)
+    \item \texttt{char} -- single character
+\end{itemize}
+
+Declare and initialize variables:
+\begin{verbatim}
+int count = 10;
+double pi = 3.1415;
+bool isReady = true;
+string name = "Alice";
+\end{verbatim}
+
+\subsection{Control Flow}
+C\# supports the standard control flow constructs:
+
+\begin{itemize}
+    \item \textbf{Conditional:} \texttt{if}, \texttt{else if}, \texttt{else}
+    \item \textbf{Switch:} \texttt{switch} for multi-way branching
+    \item \textbf{Loops:} \texttt{for}, \texttt{while}, \texttt{do-while}, and \texttt{foreach}
+\end{itemize}
+
+Example:
+\begin{verbatim}
+for (int i = 0; i < 5; i++)
+{
+    if (i % 2 == 0)
+        Console.WriteLine(i + " is even");
+    else
+        Console.WriteLine(i + " is odd");
+}
+\end{verbatim}
+
+\subsection{Methods and Functions}
+Methods (functions attached to classes) have a return type, a name, and optional parameters. Example:
+\begin{verbatim}
+static int Add(int a, int b)
+{
+    return a + b;
+}
+
+int result = Add(2, 3); // result == 5
+\end{verbatim}
+
+\subsection{Comments and Formatting}
+Use \% for single-line comments. For longer explanations, use C-style block comments \texttt{/* ... */}.
+
+\subsection{Common Operators}
+Arithmetic: \texttt{+ - * / \%}, comparison: \texttt{== != > < >= <=}, logical: \texttt{\&\& || !}.
+
 
 \section{Object-Oriented Programming}
-% Content to be added
+This section expands on the object-oriented features of C\#, including how to define and use classes, inheritance, and interfaces.
+
+\subsection{Classes and Objects}
+A class is a blueprint for objects. It can contain fields, properties, methods and constructors.
+
+\begin{verbatim}
+class Person
+{
+    // field
+    private string name;
+
+    // property
+    public int Age { get; set; }
+
+    // constructor
+    public Person(string name, int age)
+    {
+        this.name = name;
+        Age = age;
+    }
+
+    // method
+    public void Greet()
+    {
+        Console.WriteLine($"Hello, my name is {name} and I'm {Age}.");
+    }
+}
+\end{verbatim}
+
+\subsection{Encapsulation and Access Modifiers}
+Use \texttt{private}, \texttt{protected}, \texttt{internal}, and \texttt{public} to control access. Prefer properties for exposing state rather than public fields.
+
+\subsection{Inheritance and Polymorphism}
+Classes can inherit from a single base class and override virtual methods to provide polymorphic behavior.
+
+\begin{verbatim}
+class Animal { public virtual void Speak() => Console.WriteLine("..."); }
+class Dog : Animal { public override void Speak() => Console.WriteLine("Woof"); }
+
+Animal a = new Dog();
+a.Speak(); // prints "Woof" because of polymorphism
+\end{verbatim}
+
+\subsection{Interfaces}
+Interfaces declare a contract without implementation. A class can implement multiple interfaces.
+
+\begin{verbatim}
+interface ILogger { void Log(string message); }
+class ConsoleLogger : ILogger { public void Log(string message) => Console.WriteLine(message); }
+\end{verbatim}
+
+\subsection{Best Practices}
+Keep classes small and focused, prefer composition over inheritance when appropriate, and use interfaces to express contracts for testability.
 
 \section{Conclusion}
 % Content to be added
